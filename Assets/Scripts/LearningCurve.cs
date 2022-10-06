@@ -7,7 +7,7 @@ public class LearningCurve : MonoBehaviour
     private int currentAge = 30;
     public int addedAge = 1;
 
-    public double PI = 3.14;
+    public double PI = 3.14159;
     public string firstName = "Harrison";
     public bool isAuthor = true;
     public int currentGold = 32;
